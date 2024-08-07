@@ -10,12 +10,14 @@ Decryption Analysis: Analyzes the cipher text with all possible keys to find mea
 Customizable Parameters: Allows customization of array size, maximum key length, and maximum key digit.
 
 ## Output
+i set a filter for keys based on a guess for original words.
 This code will generate all possible decryptions of the given cipher text and print those that start with "شاید" and ends with "کجاست"(based on question mark at the end). The output will be limited to a maximum of 10,000 results.
-شاید:
+i set a filter for keys based on a guess for original words
+## شاید:
 ![image](https://github.com/user-attachments/assets/740a6184-c6d9-49e2-bf97-34c94feafef4)
 
 
-کجاست:
+##کجاست:
 
 ![image](https://github.com/user-attachments/assets/66fb5aab-ff3f-453f-8b31-d9da04fa56eb)
 
