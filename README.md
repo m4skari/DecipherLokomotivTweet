@@ -17,7 +17,7 @@ i set a filter for keys based on a guess for original words
 ![image](https://github.com/user-attachments/assets/740a6184-c6d9-49e2-bf97-34c94feafef4)
 
 
-##کجاست:
+## کجاست:
 
 ![image](https://github.com/user-attachments/assets/66fb5aab-ff3f-453f-8b31-d9da04fa56eb)
 
